@@ -1,0 +1,8 @@
+{
+  "name": "WasteTracker AI",
+  "description": "An intelligent waste management application for citizens to report issues, track collections, view schedules, and earn rewards for recycling. Powered by AI to provide helpful tips.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
